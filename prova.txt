@@ -50,7 +50,7 @@ acestream://121f719ebb94193c6086ef92865cf9b197750980
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png", LaLiga Hypermotion 2 720  0a33
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-fi#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 group-title="M+ LaLiga Campeones" tvg-id="LaLiga Campeones" , LaLiga Campeones  94d3
 acestream://94d34491106e00394835c8cb68aa94481339b53f
