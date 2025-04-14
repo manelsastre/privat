@@ -56,9 +56,9 @@ acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 group-title="M+ LaLiga Campeones (opc2)" tvg-id="LaLiga Campeones" , LaLiga Campeones  d59b
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title="M+ dEPORTES" tvg-id="M+ Deportes" , M+ Deportes  e572
+#EXTINF:-1 group-title="M+ dEPORTES" tvg-id="M+ Deportes" , M+ Deportes
 acestream://d59b3e44af69deb11759f1b4016503ef08d7850f
-#EXTINF:-1 group-title="M+" tvg-id="M+" , M+  56ac
+#EXTINF:-1 group-title="M+" tvg-id="M+" , M+
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title="M+vamos" tvg-id="M+vamos" , M+ vamos d03c
+#EXTINF:-1 group-title="M+vamos" tvg-id="M+vamos" , M+vamos
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
