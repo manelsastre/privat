@@ -60,3 +60,5 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 acestream://d59b3e44af69deb11759f1b4016503ef08d7850f
 #EXTINF:-1 group-title="M+" tvg-id="M+" , M+  56ac
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 group-title="M+vamos" tvg-id="M+vamos" , M+ vamos d03c
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
