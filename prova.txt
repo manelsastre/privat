@@ -52,19 +52,19 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png", LaLiga Hypermotion 3  fefd
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga Campeones", LaLiga Campeones  94d3
+#EXTINF:-1 group-title="LaLiga" tvg-id="1.LaLiga Campeones", LaLiga Campeones  94d3
 acestream://94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga Campeones (opc2)", LaLiga Campeones (opc2)
+#EXTINF:-1 group-title="LaLiga" tvg-id="2.LaLiga Campeones (opc2)", LaLiga Campeones (opc2)
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga Campeones (opc3)", LaLiga Campeones (opc3)
+#EXTINF:-1 group-title="LaLiga" tvg-id="3.LaLiga Campeones (opc3)", LaLiga Campeones (opc3)
 acestream://94054b2e5e330bfdec93b63db5bbe42d15c3fd88
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga Campeones (opc4)", LaLiga Campeones (opc4)
+#EXTINF:-1 group-title="LaLiga" tvg-id="4.LaLiga Campeones (opc4)", LaLiga Campeones (opc4)
 acestream://555e59eafc481f9bace87064ec0a2e1cbff35c46
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga Campeones (opc5)", LaLiga Campeones (opc5)
+#EXTINF:-1 group-title="LaLiga" tvg-id="5.LaLiga Campeones (opc5)", LaLiga Campeones (opc5)
 acestream://f51ea08b180c4d916a9cb9f33049cd9644284641
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga Campeones (opc6)", LaLiga Campeones (opc6)
+#EXTINF:-1 group-title="LaLiga" tvg-id="6.LaLiga Campeones (opc6)", LaLiga Campeones (opc6)
 acestream://e5c3a8445064b51c99e62abd01a2ba015c914278
-#EXTINF:-1 group-title="LaLiga" tvg-id="LaLiga Campeones (opc7)", LaLiga Campeones (opc7)
+#EXTINF:-1 group-title="LaLiga" tvg-id="7.LaLiga Campeones (opc7)", LaLiga Campeones (opc7)
 acestream://87fbb0ddc5920b1953741b99c63f0fd0e5f94814
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ Deportes", M+ Deportes
 acestream://d59b3e44af69deb11759f1b4016503ef08d7850f
