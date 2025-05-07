@@ -66,6 +66,8 @@ acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
 acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
 #EXTINF:-1 group-title="LaLiga" tvg-id="7.LaLiga Campeones (opc7)", LaLiga Campeones (opc7)
 acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
+#EXTINF:-1 group-title="LaLiga" tvg-id="8.LaLiga Campeones (opc8)", LaLiga Campeones (opc8)
+acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ Deportes", M+ Deportes
 acestream://d59b3e44af69deb11759f1b4016503ef08d7850f
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+", M+
